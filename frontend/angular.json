@@ -123,7 +123,14 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "js/jquery.min.js",
+              "js/bootstrap.min.js",
+              "js/slick.min.js",
+              "js/nouislider.min.js",
+              "js/jquery.zoom.min.js",
+              "js/main.js"
+            ]
           }
         }
       }
