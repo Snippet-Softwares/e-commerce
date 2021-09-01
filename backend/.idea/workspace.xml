@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0cbd94d-1176-40fb-be00-7b7c17f161b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/services/product.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/defaa585-cd92-4c74-a9a4-882741495c66.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/defaa585-cd92-4c74-a9a4-882741495c66.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/app/components/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/components/home/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/app/components/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/components/home/home.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +94,7 @@
       <workItem from="1630303712649" duration="1245000" />
       <workItem from="1630496835512" duration="696000" />
       <workItem from="1630498121450" duration="411000" />
-      <workItem from="1630500247887" duration="1250000" />
+      <workItem from="1630500247887" duration="4017000" />
     </task>
     <servers />
   </component>
