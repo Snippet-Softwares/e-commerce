@@ -124,12 +124,12 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "/assets/js/jquery.min.js",
-              "/assets/js/bootstrap.min.js",
-              "/assets/js/slick.min.js",
-              "/assets/js/nouislider.min.js",
-              "/assets/js/jquery.zoom.min.js",
-              "/assets/js/main.js"
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/slick.min.js",
+              "src/assets/js/nouislider.min.js",
+              "src/assets/js/jquery.zoom.min.js",
+              "src/assets/js/main.js"
             ]
           }
         }
