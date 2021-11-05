@@ -80,21 +80,10 @@
                     </div>
                     <button class="delete"><i class="fa fa-close"></i></button>
                   </div>
-
-                  <div class="product-widget">
-                    <div class="product-img">
-                      <img src="./img/product02.png" alt="">
-                    </div>
-                    <div class="product-body">
-                      <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                      <h4 class="product-price"><span class="qty">3x</span>$980.00</h4>
-                    </div>
-                    <button class="delete"><i class="fa fa-close"></i></button>
-                  </div>
                 </div>
                 <div class="cart-summary">
                   <small>3 Item(s) selected</small>
-                  <h5>SUBTOTAL: $2940.00</h5>
+                  <h5>SUBTOTAL: {{ 0 | currency: 'USD' }}</h5>
                 </div>
                 <div class="cart-btns">
                   <a href="#">View Cart</a>
@@ -132,13 +121,10 @@
     <div id="responsive-nav">
       <!-- NAV -->
       <ul class="main-nav nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
+        <li class="active"><a routerLink="/">Home</a></li>
         <li><a href="#">Hot Deals</a></li>
         <li><a href="#">Categories</a></li>
-        <li><a href="#">Laptops</a></li>
-        <li><a href="#">Smartphones</a></li>
-        <li><a href="#">Cameras</a></li>
-        <li><a href="#">Accessories</a></li>
+        <li><a href="#">Contact Us</a></li>
       </ul>
       <!-- /NAV -->
     </div>
